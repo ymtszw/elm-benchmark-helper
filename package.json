@@ -1,0 +1,23 @@
+{
+  "name": "elm-benckmark-helper",
+  "version": "1.0.0",
+  "description": "Bootstrap BrianHicks/elm-benchmark in your project",
+  "main": "elm-benchmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymtszw/elm-benchmark-helper.git"
+  },
+  "keywords": [
+    "elm",
+    "benchmark"
+  ],
+  "author": "ymtszw",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ymtszw/elm-benchmark-helper/issues"
+  },
+  "homepage": "https://github.com/ymtszw/elm-benchmark-helper#readme"
+}
