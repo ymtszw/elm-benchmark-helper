@@ -1,0 +1,4 @@
+benchmarks/
+elm-package.json
+docs/
+node_modules/
