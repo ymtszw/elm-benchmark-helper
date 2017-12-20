@@ -2,7 +2,7 @@
 
 Bootstraps [BrianHicks/elm-benchmark][eb] in your project.
 
-[eb]: https://github.com/BrianHicks/elm-benchmarks
+[eb]: https://github.com/BrianHicks/elm-benchmark
 
 # Install
 
