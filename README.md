@@ -24,3 +24,13 @@ $ node_modules/.bin/elm-benchmark install # Just installs Elm packages in benchm
 
 `init` generates `benchmarks/` directory with sample benchmark application.
 Re-running `init` will not overwrite existing `benchmarks/elm-package.json` and `benchmarks/Benchmarks.elm`.
+
+# Directory Structure
+
+```
+(Your Elm project directory)
+|- elm-package.json # Required
+\- benchmarks/
+   |- elm-package.json # Generated
+   \- Benchmarks.json  # Generated
+```
