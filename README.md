@@ -7,8 +7,10 @@ Bootstraps [BrianHicks/elm-benchmark][eb] in your project.
 # Install
 
 ```sh
-$ npm install elm-benchmark -D
+$ npm install ymtszw/elm-benchmark -D
 ```
+
+Not published yet.
 
 You may install globally (with `-g` option) if you want to.
 
