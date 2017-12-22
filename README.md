@@ -4,13 +4,20 @@ Bootstraps [BrianHicks/elm-benchmark][eb] in your project.
 
 [eb]: https://github.com/BrianHicks/elm-benchmark
 
+This project is [merged][pr] to [elm-benchmark][eb] upstream.
+When other features are ready, this will be released as part of the official elm-benchmark CLI!
+
+[pr]: https://github.com/BrianHicks/elm-benchmark/pull/40
+
+For the mean time, you can install and use it as described below.
+
 # Install
 
 ```sh
 $ npm install ymtszw/elm-benchmark-helper -D
 ```
 
-Not published yet.
+Not published to `npm` registry.
 
 You may install globally (with `-g` option) if you want to.
 
